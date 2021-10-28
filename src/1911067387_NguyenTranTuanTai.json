@@ -1,0 +1,286 @@
+[
+  {
+    "id": 0,
+    "name": "Squid game",
+    "The_loai": ["Kinh di", "Drama", "Tam ly"],
+    "View": 4400000,
+    "Actor": ["Lee Jung-Jae", "Park Hae-soo", "Wi Ha-jun", "Jung Ho-yeon"],
+    "Director": ["Hwang Dong-huyk"],
+    "Year": "2021",
+    "Trang_Thai": "HoanThanh",
+    "Rating": "8.7"
+  },
+  {
+    "id": 1,
+    "name": "Would You Rather",
+    "The_loai": ["Kinh Di", "Drama", "Chinh Kich"],
+    "View": 373,
+    "Actor": ["Brittany Snow", "June Squibb", "Jeffrey Combs"],
+    "Director": ["David Guy Levy"],
+    "Country": "USUK",
+    "Year": "2012",
+    "Trang_thai": "HoanThanh",
+    "Rating": "7.0"
+  },
+  {
+    "id": 2,
+    "name": "Grab a bite",
+    "The_loai": ["Tam Ly", "Tinh Cam", "Drama", "Chinh Kich"],
+    "View": 5467,
+    "Actor": [
+      "Kidakarn Chatkaewmanee",
+      "Siwat Jumlongkul",
+      "Toon Atirootj",
+      "Saengtien"
+    ],
+    "Director": ["David Bigander"],
+    "Country": ["HongKong", "ThaiLand"],
+    "Year": "2021",
+    "Trang_thai": "HoanThanh",
+    "Rating": "N/A"
+  },
+  {
+    "id": 3,
+    "name": "The Platform",
+    "The_loai": ["Kinh di", "Hanh Dong"],
+    "View": 2260,
+    "Actor": ["Ivan Massague", " Zorion Eguileor", " Antonia San Juan"],
+    "Director": ["Galder Gaztelu-Urrutia"],
+    "Country": "USUK",
+    "Year": "2019",
+    "Trang_thai": "HoanThanh",
+    "Rating": "7.0"
+  },
+  {
+    "id": 4,
+    "name": "Avengers 4: Endgame",
+    "The_loai": ["Phieu luu", "Vien Tuong", "Tam ly", "Tinh Cam", "Hanh Dong"],
+    "View": 14817,
+    "Actor": [
+      "Robert Downey Jr.",
+      "Brie Larson",
+      "Bradley Cooper",
+      "Scarlett Johansson",
+      "Chris Hemsworth",
+      "Karen Gillan",
+      "Evangeline Lilly",
+      "Chris Evans",
+      "Josh Brolin"
+    ],
+    "Director": ["Anthony Russo", "Joe Russo"],
+    "Country": "USUK",
+    "Year": "2019",
+    "Trang_thai": "HoanThanh",
+    "Rating": "8.4"
+  },
+  {
+    "id": 5,
+    "name": "The Great Shaman Ga Doo Shim",
+    "The_loai": ["Tam Ly", "Tinh Cam", "Bi An", "Sieu nhien"],
+    "View": 23412,
+    "Actor": [
+      "Kim Sae Ron",
+      "Nam Da Reum",
+      "Yoo Sun Ho",
+      "Moon Sung Geun",
+      "Yoon Seok Hwa",
+      "Bae Hae Seon"
+    ],
+    "Director": ["Park Ho-Jin"],
+    "Country": "Korean",
+    "Year": 2021,
+    "Trang_thai": "HoanThanh",
+    "Rating": "N/A"
+  },
+  {
+    "id": 6,
+    "name": "The Nun",
+    "The_loai": ["Kinh Di", "Bi An"],
+    "View": 1739,
+    "Actor": ["Demian Bichir", "Taissa Farmiga", "Jonas Bloquet"],
+    "Director": ["Corin Hardy"],
+    "Country": "USUK",
+    "Year": "2018",
+    "Trang_thai": "HoanThanh",
+    "Rating": "5.3"
+  },
+  {
+    "id": 7,
+    "name": "Foundation",
+    "The_loai": ["Vien Tuong", "Hanh Dong", "Bi An", "Sieu Nhien"],
+    "View": 12374,
+    "Actor": ["Leah Harvey", "Jared Harris", "Lee Pace", "Lou Llobell"],
+    "Director": ["David S. Goyer", "Josh Friedman"],
+    "Country": "USUK",
+    "Year": "2021",
+    "Trang_thai": "ChuaHoanThanh",
+    "Rating": "N/A"
+  },
+  {
+    "id": 8,
+    "name": "Dont Knock Twice",
+    "The_loai": ["Kinh Di", "Hanh Dong", "Bi An"],
+    "View": 2357,
+    "Actor": ["Katee Sackhoff", "Lucy boynton", "Richard Mylan"],
+    "Director": ["Caradog W. James"],
+    "Country": "USUK",
+    "Year": "2016",
+    "Trang_thai": "HoanThanh",
+    "Rating": "5.1"
+  },
+  {
+    "id": 9,
+    "name": "Doraemon: New Nobitas Great Demon Peko and the Exploration Party of Five",
+    "The_loai": ["Phieu luu", "Hoat hinh", "Hai huoc"],
+    "View": 2000,
+    "Actor": ["Yumi kakazu", "Subaru Kimura", "Yu Kobayashi"],
+    "Director": ["Shinnosuke Yakuwa"],
+    "Country": "Japan",
+    "Year": "2014",
+    "Trang_thai": "HoanThanh",
+    "Rating": "6.9"
+  },
+  {
+    "id": 10,
+    "name": "Doraemon The Movie Nobitas New Dinosaur",
+    "The_loai": ["Phieu luu", "Vien tuong", "Hoat hinh"],
+    "View": 2918,
+    "Actor": ["Wasabi Mizuta", "Megumi Ohara", "Shihoko Hagino"],
+    "Director": ["Kazuaki Imai"],
+    "Country": "Japan",
+    "Year": "2020",
+    "Trang_thai": "HoanThanh",
+    "Rating": "7.5"
+  },
+  {
+    "id": 11,
+    "name": ["Nu Hoang Bang Gia", "Frozen"],
+    "The_loai": ["Phieu luu", "Hoat hinh", "Hai huoc"],
+    "View": 2047,
+    "Actor": [
+      "Kristen Bell",
+      "Idina Menzel",
+      "Jonathan Groff",
+      "Josh Gad",
+      "Alan TUdyk"
+    ],
+    "Director": ["Jennifer Lee", "Chris Buck"],
+    "Country": "USUK",
+    "Year": "2013",
+    "Trang_thai": "HoanThanh",
+    "Rating": "7.4"
+  },
+  {
+    "id": 12,
+    "name": ["Nu Hoang Bang Gia 2", "Frozen 2"],
+    "The_loai": ["Phieu luu", "Hoat hinh", "Hai huoc", "Vien tuong"],
+    "View": 7643,
+    "Actor": ["Kristen Bell", "Idina Menzel", "Josh Gad"],
+    "Director": ["Jennifer Lee", "Chris Buck"],
+    "Country": "USUK",
+    "Year": "2019",
+    "Trang_thai": "HoanThanh",
+    "Rating": "7.0"
+  },
+  {
+    "id": 13,
+    "name": ["Bo Ba Rac Roi", "Triple Troubles"],
+    "The_loai": ["Phieu luu", "Hanh Dong", "Hai huoc"],
+    "View": 1644,
+    "Actor": ["Kathy Uyen", "Thuy Nga", "Hoang Oanh"],
+    "Director": ["Vo Tan Binh"],
+    "Country": "VietNam",
+    "Year": "2015",
+    "Trang_thai": "HoanThanh",
+    "Rating": "5.8"
+  },
+  {
+    "id": 14,
+    "name": ["Thang 5 De Danh", "Sunset Promise"],
+    "The_loai": ["Tam Ly", "Tinh Cam", "Drama", "Chinh Kich"],
+    "View": 1841,
+    "Actor": ["Xuan Hung", "Duc Nguy", "Minh Trang"],
+    "Director": ["Le Ha Nguyen"],
+    "Country": "VietNam",
+    "Year": "2019",
+    "Trang_thai": "HoanThanh",
+    "Rating": "7.4"
+  },
+  {
+    "id": 15,
+    "name": ["Muon Gap Anh", "Someday or One day"],
+    "The_loai": ["Tam Ly", "Tinh Cam", "Ngon Tinh", "Drama", "Chinh Kich"],
+    "View": 360,
+    "Actor": [
+      "Hua Quang Han",
+      "Kha Giai Yen",
+      "Thi Bach Vu",
+      "Hoang Hong Thang"
+    ],
+    "Director": ["N/A"],
+    "Country": "China",
+    "Year": "2019",
+    "Trang_thai": "HoanThanh",
+    "Rating": "N/A"
+  },
+  {
+    "id": 16,
+    "name": "Thien Long Bat Bo",
+    "The_loai": ["Co Trang", "Vo Thuat", "Kiem Hiep"],
+    "View": 2042,
+    "Actor": [
+      "Huyh Ky Doanh",
+      "Huynh Nhat Hoa",
+      "Luu Cam Linh",
+      "Luu Ngoc Thuy"
+    ],
+    "Director": ["Ly Chiem Thang"],
+    "Country": "HongKong",
+    "Year": "1996",
+    "Trang_thai": "HoanThanh",
+    "Rating": "N/A"
+  },
+  {
+    "id": 17,
+    "name": ["Tay Du Ky: Tai The Yeu Vuong", "Monkey King Reborn"],
+    "The_loai": [
+      "Hoat Hinh",
+      "Phieu Luu",
+      "Co Trang",
+      "Than Thoai",
+      "Vo Thuat",
+      "Kiem Hiep"
+    ],
+    "View": 4430,
+    "Actor": ["Bien Giang", "To Thuong Thanh", "Thoi Thang Huan"],
+    "Director": ["Vuong Van Phi"],
+    "Country": "China",
+    "Year": "2021",
+    "Trang_thai": "HoanThanh",
+    "Rating": "7.3"
+  },
+  {
+    "id": 18,
+    "name": ["Fifty Shades of Grey", "50 SẮC THÁI"],
+    "The_loai": ["Tam Ly", "Tinh Cam", "Drama", "Chinh Kich"],
+    "View": 13118,
+    "Actor": ["Dakota Johnson", "Jamie Dornan", "Jennifer Ehle"],
+    "Director": ["Sam Taylor-Johnson"],
+    "Country": "USUK",
+    "Year": "2015",
+    "Trang_thai": "HoanThanh",
+    "Rating": "4.1"
+  },
+  {
+    "id": 19,
+    "name": "Aladdin va cay den than",
+    "The_loai": ["Phieu luu", "Vien Tuong", "Hai huoc"],
+    "View": 7080,
+    "Actor": ["Will Smith", "Mena Massoud", "Naomi Scott"],
+    "Director": ["Guy Ritchie"],
+    "Country": "USUK",
+    "Year": "2019",
+    "Trang_thai": "HoanThanh",
+    "Rating": "6.9"
+  }
+]
