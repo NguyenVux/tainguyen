@@ -2,6 +2,7 @@ import { Typography, Rating } from "@mui/material";
 import React,{useContext } from "react";
 import {  useParams } from "react-router";
 import { MovieInfo, MoviesContext } from "../MoviesContext";
+import HomePage from "../HomePage"
 interface ParamTypes {
 	id: string;
 }
@@ -34,5 +35,6 @@ export default function MoviePage({movie}:{movie:MovieInfo}){
 			<Rating value={info.Rating ==="N/A"?0:parseFloat(info.Rating)/2} precision={0.5} readOnly></Rating>
 			<Typography variant="h6" display="inline" > - Lượt xem: {info.View}</Typography>		
 		</div>
+		<HomePage/>
 	</div>;
 }
